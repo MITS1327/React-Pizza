@@ -12,5 +12,6 @@ Css modules <br>
 ## Need to implement : <br>
 Ts <br>
 Axios <br>
+Search functionality <br>
 Optimization
 
